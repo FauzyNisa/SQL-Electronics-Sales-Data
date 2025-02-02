@@ -28,4 +28,4 @@ The dataset consists of the following tables:
 - Customers who placed an order exceeding $1000.
 
 ## Detailed Analysis  
-For a comprehensive explanation of the analysis and step-by-step insights, please visit [my portfolio](https://medium.com/@nisafauzy/unlocking-business-insights-a-deep-dive-into-electronics-sales-data-using-sql-7e989352de36.)  
+For a comprehensive explanation of the analysis and step-by-step insights, please visit [my portfolio](https://medium.com/@nisafauzy/unlocking-business-insights-a-deep-dive-into-electronics-sales-data-using-sql-7e989352de36)
